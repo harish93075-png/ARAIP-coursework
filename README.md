@@ -32,4 +32,18 @@ A terminal-based robot simulation on a 6x6 grid. The robot moves with keyboard c
 Run it with: python ARAIP.py
 
 ## Screenshots
-(add screenshots of the Trello board, commit history and merged PR)
+
+### Trello board
+![Trello board with lists, labels, due dates and checklists](screenshots/trello-board.png)
+
+### Trello card with PR link
+![Trello card with label, due date, checklist and pull request link](screenshots/trello-card-pr-link.png)
+
+### Merged pull request
+![Pull request 2 merged into main](screenshots/pull-request-2-merged.png)
+
+### Git history
+![git log showing both merged pull requests](screenshots/git-log.png)
+
+### Program running
+![Simulated robot grid in the terminal](screenshots/simulation-running.png)
