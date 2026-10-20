@@ -26,5 +26,10 @@ cd ARAIP-coursework
 | git clone | Copy a repo to your computer |
 | git checkout -b | Create a new branch |
 
+## Project: Simulated Robot
+A terminal-based robot simulation on a 6x6 grid. The robot moves with keyboard commands (up, down, left, right), is blocked by walls and the map edge, and aims to reach the goal.
+
+Run it with: python ARAIP.py
+
 ## Screenshots
 (add screenshots of the Trello board, commit history and merged PR)
