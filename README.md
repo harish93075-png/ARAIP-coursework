@@ -47,3 +47,5 @@ Run it with: python ARAIP.py
 
 ### Program running
 ![Simulated robot grid in the terminal](screenshots/simulation-running.png)
+
+Demo change: added during video walkthrough
